@@ -4,7 +4,7 @@ Official implementation of **PKGD: Physics Knowledge-Guided Diffusion Model for 
 
 PKGD enhances degraded underwater images by injecting underwater imaging priors into a conditional diffusion model. The framework contains three main components:
 
-![PKGD framework](Framework.png)
+<img width="1240" height="774" alt="Framework" src="https://github.com/user-attachments/assets/6d5541a5-e288-4331-bad7-043fb31193a6" />
 
 ## Environment
 
