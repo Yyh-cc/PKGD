@@ -1,0 +1,8 @@
+# Install torch and torchvision separately according to your CUDA version.
+einops
+lmdb
+numpy
+opencv-python
+Pillow
+tensorboardX
+tqdm
